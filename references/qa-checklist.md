@@ -8,14 +8,15 @@
 - It uses flat red/yellow accents and tiny colored dots.
 - The body remains mostly black line, not colored cartoon fill.
 - The background is plain off-white or pale mint.
-- It has large quiet areas.
-- It feels editorial, surreal, and poster-like.
+- It has large quiet areas that can hold article or PPT layout.
+- It feels editorial, confident, and presentation-ready.
 
 ## Failure Signals
 
 - Looks like a corporate illustration.
 - Looks like a startup landing page hero.
 - Looks like an infographic, flowchart, UI, or icon set.
+- Looks like a finished chart-heavy slide instead of a clean slide illustration.
 - Has too many literal objects.
 - Has detailed face, clothing, office, robot, computer, or city scene.
 - Uses gradients, shadows, 3D render, photo texture, or painterly texture.

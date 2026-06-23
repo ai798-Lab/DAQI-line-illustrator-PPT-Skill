@@ -2,11 +2,14 @@
 
 ## Composition
 
-- Use a portrait canvas, commonly 2:3 or 3:4.
-- Keep one large central or lower-half illustration.
+- For PPT, use a 16:9 landscape canvas and reserve a clear title/body area, usually on the left.
+- For WeChat article covers, use 16:9 or 4:3 with the illustration offset to one side.
+- For article section illustrations, use 3:2 or 1:1 and keep the metaphor centered but sparse.
+- For posters or covers, use a portrait canvas, commonly 2:3 or 3:4.
+- Keep one large illustration as the visual anchor.
 - Allow one thin border or one large rounded frame, but do not make it a UI card.
 - Use asymmetry: figure may be cropped by the edge, prop may cross the body, accents may be off-center.
-- Keep 35%-60% of the canvas visually quiet.
+- Keep 40%-65% of the canvas visually quiet.
 
 ## Line Work
 

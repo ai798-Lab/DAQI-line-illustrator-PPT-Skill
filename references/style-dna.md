@@ -2,7 +2,7 @@
 
 ## One Sentence
 
-Sparse editorial poster illustration: thin black hand-drawn contour figures, oversized flat red and yellow geometric accents, a few colored dots, white or pale mint background, asymmetrical composition, and a slightly surreal magazine-poster mood.
+Sparse editorial illustration for PPT and article layouts: thin black hand-drawn contour figures, oversized flat red and yellow geometric accents, a few colored dots, off-white space, asymmetrical composition, and a confident magazine-like mood.
 
 ## Visual Traits
 
@@ -11,7 +11,7 @@ Sparse editorial poster illustration: thin black hand-drawn contour figures, ove
 - Props are simple and symbolic: map, baton, pin, paper, crown, lever, frame, or path.
 - Large flat accents sit behind or across the line art rather than becoming shaded objects.
 - The image feels editorial and conceptual, not cute, realistic, corporate, or technical.
-- Negative space is part of the composition. Empty upper or side areas are acceptable.
+- Negative space is part of the composition. Empty upper or side areas are required for PPT and article layouts.
 
 ## Palette
 
