@@ -37,7 +37,7 @@
 
 | 文章主题 | 体育系列 | 风格参考 |
 |---|---|---|
-| ![OPC 的时代](examples/opc-era-poster-line.png) | ![骑行主题](examples/sports-set/06_骑行.png) | ![参考风格](assets/examples/poster-line-02.png) |
+| ![OPC 的时代](examples/opc-era-poster-line.png) | ![骑行主题](examples/sports-set/06_骑行.png) | 
 
 ## 主要用途
 
