@@ -1,6 +1,6 @@
 <div align="center">
 
-# 大气的 PPT 配图
+# 大气的 PPT 配图 Skill
 
 为微信文章和 PPT 生成统一、干净、有编辑感的线描插画。
 
